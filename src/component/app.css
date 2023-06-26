@@ -59,9 +59,10 @@ ul {
   padding: 0.5rem;
   color: white;
   background-color: #ff0000cc;
-  border-radius: 5px;
+  border-radius: 10px;
   border: none;
   cursor: pointer;
+  margin-left: 10PX;
 }
 
 .sub-course-list {
@@ -83,4 +84,5 @@ ul {
 
 .addsubcourse{
   margin-left: 10px;
+  border-radius: 10PX;
 }
